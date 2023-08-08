@@ -1,0 +1,5642 @@
+[
+    {
+        "instruction": "请你用二字词语定义眉飞色舞",
+        "input": "",
+        "output": "自信",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义昂首挺胸",
+        "input": "",
+        "output": "自信,自豪",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义炯炯有神",
+        "input": "",
+        "output": "自信",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义精神焕发",
+        "input": "",
+        "output": "自信",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义龙马精神",
+        "input": "",
+        "output": "自信,活力",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义兴高采烈",
+        "input": "",
+        "output": "喜悦",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义气宇轩昂",
+        "input": "",
+        "output": "自信",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义生龙活虎",
+        "input": "",
+        "output": "活力",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义喜笑颜开",
+        "input": "",
+        "output": "喜悦",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义心旷神怡",
+        "input": "",
+        "output": "舒适,满意",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义心花怒放",
+        "input": "",
+        "output": "喜悦",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义欢天喜地",
+        "input": "",
+        "output": "喜悦",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义乐不可支",
+        "input": "",
+        "output": "喜悦",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义满面春风",
+        "input": "",
+        "output": "喜悦,满意",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义落落大方",
+        "input": "",
+        "output": "自信",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义惊慌失措",
+        "input": "",
+        "output": "惊讶,慌张,担忧",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义漫不经心",
+        "input": "",
+        "output": "随意",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义垂头丧气",
+        "input": "",
+        "output": "沮丧",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义没精打采",
+        "input": "",
+        "output": "沮丧",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义愁眉苦脸",
+        "input": "",
+        "output": "沮丧",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义大惊失色",
+        "input": "",
+        "output": "惊讶",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义如坐针毡",
+        "input": "",
+        "output": "担忧,慌张",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义有气无力",
+        "input": "",
+        "output": "沮丧",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义嬉皮笑脸",
+        "input": "",
+        "output": "轻浮",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义油腔滑调",
+        "input": "",
+        "output": "轻浮",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义悠然自得",
+        "input": "",
+        "output": "随意",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义局促不安",
+        "input": "",
+        "output": "慌张",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义面红耳赤",
+        "input": "",
+        "output": "着急,害羞",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义呆若木鸡",
+        "input": "",
+        "output": "发呆",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义忐忑不安",
+        "input": "",
+        "output": "无助,慌张",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义心惊肉跳",
+        "input": "",
+        "output": "惊讶,慌张",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义心神不安",
+        "input": "",
+        "output": "紧张,慌张",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义心猿意马",
+        "input": "",
+        "output": "浮躁",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义心慌意乱",
+        "input": "",
+        "output": "浮躁,慌张",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义七上八下",
+        "input": "",
+        "output": "慌张",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义心急如焚",
+        "input": "",
+        "output": "着急",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义心如刀割",
+        "input": "",
+        "output": "悲伤",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义奋不顾身",
+        "input": "",
+        "output": "奋勇",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义舍己为人",
+        "input": "",
+        "output": "奋勇",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义坚强不屈",
+        "input": "",
+        "output": "坚持",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义赤胆忠心",
+        "input": "",
+        "output": "忠心",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义不屈不挠",
+        "input": "",
+        "output": "坚持",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义忠贞不渝",
+        "input": "",
+        "output": "忠心",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义誓死不二",
+        "input": "",
+        "output": "忠心",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义威武不屈",
+        "input": "",
+        "output": "忠心,坚持",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义舍生忘死",
+        "input": "",
+        "output": "忠心,奋勇",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义克己奉公",
+        "input": "",
+        "output": "克制,忠心",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义一尘不染",
+        "input": "",
+        "output": "纯洁",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义两袖清风",
+        "input": "",
+        "output": "纯洁,清廉",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义永垂不朽",
+        "input": "",
+        "output": "出色,深刻,敬佩",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义顶天立地",
+        "input": "",
+        "output": "豪迈",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义豁达大度",
+        "input": "",
+        "output": "大度",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义兢兢业业",
+        "input": "",
+        "output": "专注,克制,勤奋",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义宽宏大量",
+        "input": "",
+        "output": "大度",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义光明磊落",
+        "input": "",
+        "output": "清廉,大度",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义持之以恒",
+        "input": "",
+        "output": "专注,坚持",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义冰清玉洁",
+        "input": "",
+        "output": "纯洁",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义拾金不昧",
+        "input": "",
+        "output": "清廉",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义表里如一",
+        "input": "",
+        "output": "虚伪",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义卖国求荣",
+        "input": "",
+        "output": "背叛",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义恬不知耻",
+        "input": "",
+        "output": "无耻,无耻",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义贪生怕死",
+        "input": "",
+        "output": "害怕",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义厚颜无耻",
+        "input": "",
+        "output": "无耻",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义见利忘义",
+        "input": "",
+        "output": "虚伪",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义穷凶极恶",
+        "input": "",
+        "output": "残暴",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义如狼似虎",
+        "input": "",
+        "output": "残暴",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义伤天害理",
+        "input": "",
+        "output": "残暴",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义口蜜腹剑",
+        "input": "",
+        "output": "虚伪",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义挑肥拣瘦",
+        "input": "",
+        "output": "挑剔",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义拈轻怕重",
+        "input": "",
+        "output": "挑剔,无耻",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义得寸进尺",
+        "input": "",
+        "output": "贪心",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义斤斤计较",
+        "input": "",
+        "output": "挑剔",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义坐享其成",
+        "input": "",
+        "output": "无耻,贪心",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义游手好闲",
+        "input": "",
+        "output": "懒惰",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义学无止境",
+        "input": "",
+        "output": "勤奋,抱负,好学",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义学而不厌",
+        "input": "",
+        "output": "勤奋,好学,坚持",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义真才实学",
+        "input": "",
+        "output": "真实,好学",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义好学不倦",
+        "input": "",
+        "output": "好学,勤奋",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义勤学好问",
+        "input": "",
+        "output": "好学,勤奋",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义废寝忘食",
+        "input": "",
+        "output": "勤奋",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义争分夺秒",
+        "input": "",
+        "output": "勤奋",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义孜孜不倦",
+        "input": "",
+        "output": "勤奋,坚持",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义闻鸡起舞",
+        "input": "",
+        "output": "勤奋",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义自强不息",
+        "input": "",
+        "output": "勤奋,勤奋",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义只争朝夕",
+        "input": "",
+        "output": "勤奋,勤奋",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义不甘示弱",
+        "input": "",
+        "output": "勤奋,勤奋",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义全力以赴",
+        "input": "",
+        "output": "勤奋,专注,勤奋",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义力争上游",
+        "input": "",
+        "output": "勤奋,勤奋",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义专心一志",
+        "input": "",
+        "output": "专注,勤奋",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义全神贯注",
+        "input": "",
+        "output": "专注,勤奋",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义聚精会神",
+        "input": "",
+        "output": "专注,勤奋",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义目不转睛",
+        "input": "",
+        "output": "专注,勤奋",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义坚持不懈",
+        "input": "",
+        "output": "坚持,勤奋",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义积少成多",
+        "input": "",
+        "output": "坚持",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义海誓山盟",
+        "input": "",
+        "output": "爱",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义心心相印",
+        "input": "",
+        "output": "爱",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义万紫千红",
+        "input": "",
+        "output": "红色,紫色",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义春暖花开",
+        "input": "",
+        "output": "春天,温暖",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义鸟语花香",
+        "input": "",
+        "output": "春天,生机",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义姹紫嫣红",
+        "input": "",
+        "output": "红色,紫色",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义花红柳绿",
+        "input": "",
+        "output": "红色,绿色,春天,生机",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义百花争艳",
+        "input": "",
+        "output": "春天,生机",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义遍地开花",
+        "input": "",
+        "output": "春天,生机",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义锦上添花",
+        "input": "",
+        "output": "帮助",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义火树银花",
+        "input": "",
+        "output": "喜悦,热闹",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义春花秋月",
+        "input": "",
+        "output": "美好",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义花团锦簇",
+        "input": "",
+        "output": "生机,美好",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义花枝招展",
+        "input": "",
+        "output": "美丽",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义奇花异草",
+        "input": "",
+        "output": "生机",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义云雾迷蒙",
+        "input": "",
+        "output": "神秘,朦胧",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义壮志凌云",
+        "input": "",
+        "output": "志向",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义风云变幻",
+        "input": "",
+        "output": "变化",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义风起云涌",
+        "input": "",
+        "output": "变化",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义行云流水",
+        "input": "",
+        "output": "流畅",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义风卷残云",
+        "input": "",
+        "output": "迅速",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义彤云密布",
+        "input": "",
+        "output": "紧张",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义浮云蔽日",
+        "input": "",
+        "output": "蒙蔽",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义孤云野鹤",
+        "input": "",
+        "output": "孤独,无助",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义烟消云散",
+        "input": "",
+        "output": "消失",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义朝云暮雨",
+        "input": "",
+        "output": "变化",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义大雨倾盆",
+        "input": "",
+        "output": "下雨",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义血雨腥风",
+        "input": "",
+        "output": "危险",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义风雨交加",
+        "input": "",
+        "output": "下雨",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义风调雨顺",
+        "input": "",
+        "output": "安宁",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义风雨无阻",
+        "input": "",
+        "output": "坚持",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义和风细雨",
+        "input": "",
+        "output": "下雨",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义狂风暴雨",
+        "input": "",
+        "output": "下雨",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义滂沱大雨",
+        "input": "",
+        "output": "下雨",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义春风化雨",
+        "input": "",
+        "output": "温暖,舒适",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义风雨飘摇",
+        "input": "",
+        "output": "动荡",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义斜风细雨",
+        "input": "",
+        "output": "下雨",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义未雨绸缪",
+        "input": "",
+        "output": "远虑",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义崇山峻岭",
+        "input": "",
+        "output": "山川",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义山明水秀",
+        "input": "",
+        "output": "山川",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义悬崖峭壁",
+        "input": "",
+        "output": "危险",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义峰峦雄伟",
+        "input": "",
+        "output": "山川,壮观",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义江山如画",
+        "input": "",
+        "output": "美丽",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义湖光山色",
+        "input": "",
+        "output": "湖泊,山川,美丽",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义山穷水尽",
+        "input": "",
+        "output": "艰难",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义大好河山",
+        "input": "",
+        "output": "山川,河流",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义地动山摇",
+        "input": "",
+        "output": "壮观",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义锦绣河山",
+        "input": "",
+        "output": "山川",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义逼上梁山",
+        "input": "",
+        "output": "反抗",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义水流湍急",
+        "input": "",
+        "output": "水流",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义一泻千里",
+        "input": "",
+        "output": "壮观,水流",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义波澜壮阔",
+        "input": "",
+        "output": "壮观",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义波涛汹涌",
+        "input": "",
+        "output": "壮观",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义水平如镜",
+        "input": "",
+        "output": "安宁,湖泊",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义高山流水",
+        "input": "",
+        "output": "山川,流水",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义千山万水",
+        "input": "",
+        "output": "艰难",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义水滴石穿",
+        "input": "",
+        "output": "坚持",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义水乳交融",
+        "input": "",
+        "output": "密切",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义血流成河",
+        "input": "",
+        "output": "残忍",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义滴水不漏",
+        "input": "",
+        "output": "谨慎,认真",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义杯水车薪",
+        "input": "",
+        "output": "无力",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义洪水猛兽",
+        "input": "",
+        "output": "凶险,危险",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义五彩缤纷",
+        "input": "",
+        "output": "多彩",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义五颜六色",
+        "input": "",
+        "output": "多彩",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义一碧千里",
+        "input": "",
+        "output": "绿色,生机,美好",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义翠色欲流",
+        "input": "",
+        "output": "绿色,美好",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义古色古香",
+        "input": "",
+        "output": "传统",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义面如土色",
+        "input": "",
+        "output": "害怕",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义五光十色",
+        "input": "",
+        "output": "多彩",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义灯红酒绿",
+        "input": "",
+        "output": "繁华,热闹",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义绿水青山",
+        "input": "",
+        "output": "山川,水流,美丽",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义光彩夺目",
+        "input": "",
+        "output": "美丽",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义不可多得",
+        "input": "",
+        "output": "珍贵,罕见",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义凤毛麟角",
+        "input": "",
+        "output": "罕见,珍贵",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义九牛一毛",
+        "input": "",
+        "output": "罕见",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义绝无仅有",
+        "input": "",
+        "output": "罕见",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义空前绝后",
+        "input": "",
+        "output": "罕见",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义寥寥无几",
+        "input": "",
+        "output": "罕见",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义寥若星辰",
+        "input": "",
+        "output": "罕见",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义前所未闻",
+        "input": "",
+        "output": "罕见",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义屈指可数",
+        "input": "",
+        "output": "罕见",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义铁树开花",
+        "input": "",
+        "output": "罕见",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义业精于勤",
+        "input": "",
+        "output": "勤奋,学习",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义不学无术",
+        "input": "",
+        "output": "懒惰,无知,学习",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义取长补短",
+        "input": "",
+        "output": "智慧,学习",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义勤学苦练",
+        "input": "",
+        "output": "勤奋,学习",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义不求甚解",
+        "input": "",
+        "output": "学习,无知,随意",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义囫囵吞枣",
+        "input": "",
+        "output": "学习,无知,随意",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义不骄不躁",
+        "input": "",
+        "output": "谦虚",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义大智若愚",
+        "input": "",
+        "output": "智慧",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义功成不居",
+        "input": "",
+        "output": "谦虚",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义洗耳恭听",
+        "input": "",
+        "output": "礼貌,专注",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义虚怀若谷",
+        "input": "",
+        "output": "谦虚,谨慎",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义自知之明",
+        "input": "",
+        "output": "智慧",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义谨言慎行",
+        "input": "",
+        "output": "谨慎",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义班门弄斧",
+        "input": "",
+        "output": "自负",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义孤芳自赏",
+        "input": "",
+        "output": "孤单,高傲",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义居功自傲",
+        "input": "",
+        "output": "自豪,高傲",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义目空一切",
+        "input": "",
+        "output": "自负,高傲",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义目中无人",
+        "input": "",
+        "output": "自负,高傲",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义恃才傲物",
+        "input": "",
+        "output": "自信,高傲,轻视",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义妄自尊大",
+        "input": "",
+        "output": "自负,轻视",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义忘乎所以",
+        "input": "",
+        "output": "自信,随意",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义自高自大",
+        "input": "",
+        "output": "自负,高傲,满意",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义自鸣得意",
+        "input": "",
+        "output": "自豪,满意",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义自我陶醉",
+        "input": "",
+        "output": "自豪,满意",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义自命不凡",
+        "input": "",
+        "output": "自负,高傲",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义自以为是",
+        "input": "",
+        "output": "自负",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义对答如流",
+        "input": "",
+        "output": "流畅,优秀,智慧,讨论",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义谈笑风生",
+        "input": "",
+        "output": "有趣,讨论",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义高谈阔论",
+        "input": "",
+        "output": "讨论,浮夸",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义豪言壮语",
+        "input": "",
+        "output": "豪迈",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义夸夸其谈",
+        "input": "",
+        "output": "浮夸",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义花言巧语",
+        "input": "",
+        "output": "美好,虚伪,浮夸",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义闭月羞花",
+        "input": "",
+        "output": "美丽",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义沉鱼落雁",
+        "input": "",
+        "output": "美丽",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义出水芙蓉",
+        "input": "",
+        "output": "美丽,清新",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义明眸皓齿",
+        "input": "",
+        "output": "美丽",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义美如冠玉",
+        "input": "",
+        "output": "美丽",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义倾国倾城",
+        "input": "",
+        "output": "美丽",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义国色天香",
+        "input": "",
+        "output": "美丽,典雅",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义眉清目秀",
+        "input": "",
+        "output": "清秀",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义和蔼可亲",
+        "input": "",
+        "output": "亲切",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义心慈面善",
+        "input": "",
+        "output": "善良,亲切",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义雍容华贵",
+        "input": "",
+        "output": "美丽,典雅",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义文质彬彬",
+        "input": "",
+        "output": "文雅",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义威风凛凛",
+        "input": "",
+        "output": "豪迈",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义老态龙钟",
+        "input": "",
+        "output": "年迈",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义虎背熊腰",
+        "input": "",
+        "output": "强壮",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义如花似玉",
+        "input": "",
+        "output": "美丽",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义容光焕发",
+        "input": "",
+        "output": "自信,活力",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义弱不禁风",
+        "input": "",
+        "output": "瘦弱",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义大腹便便",
+        "input": "",
+        "output": "肥胖",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义面黄肌瘦",
+        "input": "",
+        "output": "瘦弱",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义绰约多姿",
+        "input": "",
+        "output": "美丽",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义蓬头垢面",
+        "input": "",
+        "output": "纷乱",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义瘦骨嶙峋",
+        "input": "",
+        "output": "瘦弱",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义直言不讳",
+        "input": "",
+        "output": "真实,坦诚",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义无所顾忌",
+        "input": "",
+        "output": "无畏",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义拐弯抹角",
+        "input": "",
+        "output": "犹豫,曲折,影射",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义故弄玄虚",
+        "input": "",
+        "output": "虚伪,浮夸",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义侃侃而谈",
+        "input": "",
+        "output": "讨论,流畅",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义虚情假意",
+        "input": "",
+        "output": "虚伪",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义旁敲侧击",
+        "input": "",
+        "output": "曲折,影射",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义喋喋不休",
+        "input": "",
+        "output": "连续,唠叨",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义慢条斯理",
+        "input": "",
+        "output": "缓慢",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义含糊其辞",
+        "input": "",
+        "output": "朦胧",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义唠唠叨叨",
+        "input": "",
+        "output": "唠叨",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义肆无忌惮",
+        "input": "",
+        "output": "无畏",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义娓娓动听",
+        "input": "",
+        "output": "优美,好听",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义绘声绘色",
+        "input": "",
+        "output": "真实",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义自圆其说",
+        "input": "",
+        "output": "智慧",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义闲言碎语",
+        "input": "",
+        "output": "讨论,唠叨",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义眉开眼笑",
+        "input": "",
+        "output": "喜悦",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义捧腹大笑",
+        "input": "",
+        "output": "喜悦,激烈",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义如获至宝",
+        "input": "",
+        "output": "珍贵",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义相视而笑",
+        "input": "",
+        "output": "美好,温馨",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义笑容可掬",
+        "input": "",
+        "output": "喜悦",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义喜上眉梢",
+        "input": "",
+        "output": "喜悦",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义喜从天降",
+        "input": "",
+        "output": "喜悦,突然",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义亲密无间",
+        "input": "",
+        "output": "亲密",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义情同手足",
+        "input": "",
+        "output": "亲密",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义荣辱与共",
+        "input": "",
+        "output": "忠心",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义同甘共苦",
+        "input": "",
+        "output": "爱",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义关怀备至",
+        "input": "",
+        "output": "温馨,爱,关切",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义盛情款待",
+        "input": "",
+        "output": "热情",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义情深似海",
+        "input": "",
+        "output": "爱,狂热",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义拔刀相助",
+        "input": "",
+        "output": "豪迈,热情",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义如饥似渴",
+        "input": "",
+        "output": "狂热",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义大雨如注",
+        "input": "",
+        "output": "下雨,朦胧,壮观",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义银装素裹",
+        "input": "",
+        "output": "冬天,下雪,壮观",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义皓月千里",
+        "input": "",
+        "output": "夜晚,壮观",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义晨光熹微",
+        "input": "",
+        "output": "日出,真实,安逸",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义暴风骤雨",
+        "input": "",
+        "output": "壮观,下雨",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义风驰电掣",
+        "input": "",
+        "output": "迅速",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义兴国安邦",
+        "input": "",
+        "output": "爱国",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义翻山越岭",
+        "input": "",
+        "output": "辛苦",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义背井离乡",
+        "input": "",
+        "output": "辛苦",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义长吁短叹",
+        "input": "",
+        "output": "温馨",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义道听途说",
+        "input": "",
+        "output": "虚伪",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义丢盔弃甲",
+        "input": "",
+        "output": "绝望",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义调兵遣将",
+        "input": "",
+        "output": "灵活",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义甜言蜜语",
+        "input": "",
+        "output": "爱",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义眼疾手快",
+        "input": "",
+        "output": "迅速",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义优胜劣汰",
+        "input": "",
+        "output": "奋勇",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义鬼鬼祟祟",
+        "input": "",
+        "output": "蒙蔽",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义熙熙攘攘",
+        "input": "",
+        "output": "丰富",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义战战兢兢",
+        "input": "",
+        "output": "紧张",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义沸沸扬扬",
+        "input": "",
+        "output": "丰富",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义林林总总",
+        "input": "",
+        "output": "丰富",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义支支吾吾",
+        "input": "",
+        "output": "无知",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义吞吞吐吐",
+        "input": "",
+        "output": "无知",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义浩浩荡荡",
+        "input": "",
+        "output": "丰富",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义密密麻麻",
+        "input": "",
+        "output": "丰富",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义疏疏朗朗",
+        "input": "",
+        "output": "稀少",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义朝朝暮暮",
+        "input": "",
+        "output": "爱",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义浑浑噩噩",
+        "input": "",
+        "output": "朦胧",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义风风雨雨",
+        "input": "",
+        "output": "下雨",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义风风火火",
+        "input": "",
+        "output": "迅速",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义堂堂正正",
+        "input": "",
+        "output": "自豪",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义偷偷摸摸",
+        "input": "",
+        "output": "无耻",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义轰轰烈烈",
+        "input": "",
+        "output": "热情",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义朦朦胧胧",
+        "input": "",
+        "output": "朦胧",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义隐隐约约",
+        "input": "",
+        "output": "朦胧",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义迷迷糊糊",
+        "input": "",
+        "output": "朦胧",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义心心念念",
+        "input": "",
+        "output": "关切",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义勤勤恳恳",
+        "input": "",
+        "output": "优秀",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义踉踉跄跄",
+        "input": "",
+        "output": "缓慢",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义口口声声",
+        "input": "",
+        "output": "高傲",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义芸芸众生",
+        "input": "",
+        "output": "繁荣",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义咄咄逼人",
+        "input": "",
+        "output": "激烈",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义头头是道",
+        "input": "",
+        "output": "讨论",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义津津有味",
+        "input": "",
+        "output": "好吃",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义津津乐道",
+        "input": "",
+        "output": "悠闲",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义奄奄一息",
+        "input": "",
+        "output": "绝望",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义念念不忘",
+        "input": "",
+        "output": "不舍",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义空空如也",
+        "input": "",
+        "output": "孤单",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义源源不绝",
+        "input": "",
+        "output": "流畅",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义姗姗来迟",
+        "input": "",
+        "output": "缓慢",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义面面相觑",
+        "input": "",
+        "output": "无知",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义面面俱到",
+        "input": "",
+        "output": "谨慎",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义振振有辞",
+        "input": "",
+        "output": "坚持",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义窃窃私语",
+        "input": "",
+        "output": "密切",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义息息相关",
+        "input": "",
+        "output": "密切",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义郁郁寡欢",
+        "input": "",
+        "output": "担忧,无助",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义彬彬有礼",
+        "input": "",
+        "output": "舒适,典雅",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义亭亭玉立",
+        "input": "",
+        "output": "美丽,好看",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义铮铮铁骨",
+        "input": "",
+        "output": "忠心,豪迈",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义飘飘欲仙",
+        "input": "",
+        "output": "朦胧",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义莘莘学子",
+        "input": "",
+        "output": "优秀",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义跃跃欲试",
+        "input": "",
+        "output": "活力,自信",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义井井有条",
+        "input": "",
+        "output": "认真,欣赏",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义楚楚可怜",
+        "input": "",
+        "output": "可怜",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义滔滔不绝",
+        "input": "",
+        "output": "讨论,热情",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义伶牙俐齿",
+        "input": "",
+        "output": "优秀,智慧,出色",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义出口成章",
+        "input": "",
+        "output": "智慧,优秀,出色",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义语惊四座",
+        "input": "",
+        "output": "智慧,优秀,出色",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义娓娓而谈",
+        "input": "",
+        "output": "智慧,优秀,出色",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义妙语连珠",
+        "input": "",
+        "output": "智慧,优秀,出色",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义口若悬河",
+        "input": "",
+        "output": "智慧,优秀,出色",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义三顾茅庐",
+        "input": "",
+        "output": "坚持,谦虚",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义铁杵成针",
+        "input": "",
+        "output": "坚持,好学,勤奋",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义望梅止渴",
+        "input": "",
+        "output": "蒙蔽",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义完璧归赵",
+        "input": "",
+        "output": "智慧",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义四面楚歌",
+        "input": "",
+        "output": "绝望,无力",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义负荆请罪",
+        "input": "",
+        "output": "大度,坦诚",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义精忠报国",
+        "input": "",
+        "output": "爱国,奋勇",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义手不释卷",
+        "input": "",
+        "output": "好学,勤奋,学习",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义悬梁刺股",
+        "input": "",
+        "output": "好学,学习,勤奋",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义凿壁偷光",
+        "input": "",
+        "output": "好学,学习,勤奋",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义走马观花",
+        "input": "",
+        "output": "学习,浮躁",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义欢呼雀跃",
+        "input": "",
+        "output": "喜悦,活力",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义扶老携幼",
+        "input": "",
+        "output": "温馨,孝敬",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义手舞足蹈",
+        "input": "",
+        "output": "狂热,活力",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义促膝谈心",
+        "input": "",
+        "output": "温馨,讨论",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义前俯后仰",
+        "input": "",
+        "output": "喜悦",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义奔走相告",
+        "input": "",
+        "output": "关切,热闹",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义跋山涉水",
+        "input": "",
+        "output": "艰辛,疲惫,坚持",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义前赴后继",
+        "input": "",
+        "output": "奋勇",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义张牙舞爪",
+        "input": "",
+        "output": "狂热",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义恩重如山",
+        "input": "",
+        "output": "感恩",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义深情厚谊",
+        "input": "",
+        "output": "友谊",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义手足情深",
+        "input": "",
+        "output": "友谊",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义形影不离",
+        "input": "",
+        "output": "友谊",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义血浓于水",
+        "input": "",
+        "output": "爱",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义志同道合",
+        "input": "",
+        "output": "友谊",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义风雨同舟",
+        "input": "",
+        "output": "友谊",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义赤诚相待",
+        "input": "",
+        "output": "真心,友谊",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义肝胆相照",
+        "input": "",
+        "output": "友谊,真心",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义生死相依",
+        "input": "",
+        "output": "友谊",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义循序渐进",
+        "input": "",
+        "output": "优秀",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义日积月累",
+        "input": "",
+        "output": "学习,勤奋,坚持",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义温故知新",
+        "input": "",
+        "output": "学习,勤奋",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义勤能补拙",
+        "input": "",
+        "output": "学习,勤奋",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义笨鸟先飞",
+        "input": "",
+        "output": "学习,勤奋",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义学海无涯",
+        "input": "",
+        "output": "学习,坚持",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义滴水穿石",
+        "input": "",
+        "output": "坚持",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义发奋图强",
+        "input": "",
+        "output": "奋勇,勤奋",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义开卷有益",
+        "input": "",
+        "output": "学习,好学",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义自相矛盾",
+        "input": "",
+        "output": "矛盾",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义滥竽充数",
+        "input": "",
+        "output": "虚伪",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义画龙点睛",
+        "input": "",
+        "output": "优秀,出色",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义刻舟求剑",
+        "input": "",
+        "output": "无知",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义叶公好龙",
+        "input": "",
+        "output": "虚伪",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义亡羊补牢",
+        "input": "",
+        "output": "远虑",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义画蛇添足",
+        "input": "",
+        "output": "浮夸",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义掩耳盗铃",
+        "input": "",
+        "output": "无知",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义买椟还珠",
+        "input": "",
+        "output": "无知",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义无懈可击",
+        "input": "",
+        "output": "优秀,出色",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义锐不可当",
+        "input": "",
+        "output": "优秀,出色",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义雷厉风行",
+        "input": "",
+        "output": "迅速",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义震耳欲聋",
+        "input": "",
+        "output": "声音大",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义惊心动魄",
+        "input": "",
+        "output": "紧张,慌张",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义铺天盖地",
+        "input": "",
+        "output": "纷乱",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义势如破竹",
+        "input": "",
+        "output": "优秀,出色",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义气贯长虹",
+        "input": "",
+        "output": "奋勇",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义万马奔腾",
+        "input": "",
+        "output": "壮观",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义如履平地",
+        "input": "",
+        "output": "优秀",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义满园春色",
+        "input": "",
+        "output": "春天,活力,生机",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义春华秋实",
+        "input": "",
+        "output": "学习",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义骄阳似火",
+        "input": "",
+        "output": "夏天",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义暑气蒸人",
+        "input": "",
+        "output": "夏天",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义烈日炎炎",
+        "input": "",
+        "output": "夏天",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义秋风送爽",
+        "input": "",
+        "output": "秋天",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义冰天雪地",
+        "input": "",
+        "output": "冬天",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义寒气袭人",
+        "input": "",
+        "output": "冬天",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义寒冬腊月",
+        "input": "",
+        "output": "冬天",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义济济一堂",
+        "input": "",
+        "output": "热闹",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义热火朝天",
+        "input": "",
+        "output": "狂热,讨论",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义高朋满座",
+        "input": "",
+        "output": "热闹",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义如火如荼",
+        "input": "",
+        "output": "讨论,狂热",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义蒸蒸日上",
+        "input": "",
+        "output": "繁荣",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义欣欣向荣",
+        "input": "",
+        "output": "生机",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义蔚为壮观",
+        "input": "",
+        "output": "壮观,繁荣",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义富丽堂皇",
+        "input": "",
+        "output": "壮观",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义金碧辉煌",
+        "input": "",
+        "output": "壮观",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义玉宇琼楼",
+        "input": "",
+        "output": "壮观",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义美妙绝伦",
+        "input": "",
+        "output": "壮观",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义巧夺天工",
+        "input": "",
+        "output": "优秀",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义粉妆玉砌",
+        "input": "",
+        "output": "好看",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义别有洞天",
+        "input": "",
+        "output": "美好",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义高耸入云",
+        "input": "",
+        "output": "山川,壮观",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义水天一色",
+        "input": "",
+        "output": "山川",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义波光粼粼",
+        "input": "",
+        "output": "山川",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义重峦叠嶂",
+        "input": "",
+        "output": "山川,壮观",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义白练腾空",
+        "input": "",
+        "output": "山川,壮观",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义烟波浩渺",
+        "input": "",
+        "output": "山川,壮观",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义繁花似锦",
+        "input": "",
+        "output": "繁荣,芬芳,植物",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义绿草如茵",
+        "input": "",
+        "output": "植物,繁荣",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义郁郁葱葱",
+        "input": "",
+        "output": "植物,繁荣",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义古树参天",
+        "input": "",
+        "output": "植物,繁荣,壮观",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义万木争荣",
+        "input": "",
+        "output": "植物,繁荣,壮观",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义绿树成荫",
+        "input": "",
+        "output": "植物,繁荣",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义三三两两",
+        "input": "",
+        "output": "稀少,随意",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义微乎其微",
+        "input": "",
+        "output": "稀少,罕见",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义一鳞半爪",
+        "input": "",
+        "output": "影射,稀少",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义一丝一毫",
+        "input": "",
+        "output": "稀少",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义百里挑一",
+        "input": "",
+        "output": "珍贵,突出,罕见",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义沧海一粟",
+        "input": "",
+        "output": "消失,稀少",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义千古绝唱",
+        "input": "",
+        "output": "罕见,突出,珍贵",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义微不足道",
+        "input": "",
+        "output": "随意",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义独具匠心",
+        "input": "",
+        "output": "出色,突出,独特",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义独树一帜",
+        "input": "",
+        "output": "变化",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义独占鳌头",
+        "input": "",
+        "output": "突出,优秀,独特",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义接踵摩肩",
+        "input": "",
+        "output": "纷乱,艰辛",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义车水马龙",
+        "input": "",
+        "output": "热闹,繁荣",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义川流不息",
+        "input": "",
+        "output": "变化",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义纷至沓来",
+        "input": "",
+        "output": "热闹,纷乱",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义花花世界",
+        "input": "",
+        "output": "纷乱,繁华",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义接踵而至",
+        "input": "",
+        "output": "纷乱",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义络绎不绝",
+        "input": "",
+        "output": "纷乱,热闹",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义门庭若市",
+        "input": "",
+        "output": "热闹,繁华",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义万人空巷",
+        "input": "",
+        "output": "变化,消失,纷乱",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义水泄不通",
+        "input": "",
+        "output": "壮观,纷乱",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义人声鼎沸",
+        "input": "",
+        "output": "热闹",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义人欢马叫",
+        "input": "",
+        "output": "热闹,喜悦",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义人山人海",
+        "input": "",
+        "output": "热闹,纷乱",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义座无虚席",
+        "input": "",
+        "output": "热闹",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义万籁俱寂",
+        "input": "",
+        "output": "寂静",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义鸦雀无声",
+        "input": "",
+        "output": "寂静",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义门可罗雀",
+        "input": "",
+        "output": "寂静,孤独",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义包罗万象",
+        "input": "",
+        "output": "丰富",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义琳琅满目",
+        "input": "",
+        "output": "丰富,壮观",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义美不胜收",
+        "input": "",
+        "output": "美丽,壮观",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义目不暇接",
+        "input": "",
+        "output": "壮观,美丽",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义无奇不有",
+        "input": "",
+        "output": "独特",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义无穷无尽",
+        "input": "",
+        "output": "丰富",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义无所不包",
+        "input": "",
+        "output": "全面",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义五花八门",
+        "input": "",
+        "output": "丰富",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义形形色色",
+        "input": "",
+        "output": "丰富",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义眼花缭乱",
+        "input": "",
+        "output": "丰富",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义洋洋大观",
+        "input": "",
+        "output": "繁荣,壮观",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义一应俱全",
+        "input": "",
+        "output": "丰富",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义应有尽有",
+        "input": "",
+        "output": "丰富",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义比比皆是",
+        "input": "",
+        "output": "普遍",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义不乏其人",
+        "input": "",
+        "output": "丰富",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义不计其数",
+        "input": "",
+        "output": "丰富",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义层出不穷",
+        "input": "",
+        "output": "丰富",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义绰绰有余",
+        "input": "",
+        "output": "丰富",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义多多益善",
+        "input": "",
+        "output": "丰富",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义多如牛毛",
+        "input": "",
+        "output": "丰富",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义俯拾皆是",
+        "input": "",
+        "output": "丰富",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义举不胜举",
+        "input": "",
+        "output": "丰富",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义星罗棋布",
+        "input": "",
+        "output": "丰富",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义多才多艺",
+        "input": "",
+        "output": "丰富,优秀",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义足智多谋",
+        "input": "",
+        "output": "智慧",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义丰富多彩",
+        "input": "",
+        "output": "丰富",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义春光明媚",
+        "input": "",
+        "output": "春天,光芒",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义春寒料峭",
+        "input": "",
+        "output": "春天,寒冷",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义春山如笑",
+        "input": "",
+        "output": "春天,喜悦",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义春意盎然",
+        "input": "",
+        "output": "春天,美丽",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义春意阑珊",
+        "input": "",
+        "output": "春天",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义大地回春",
+        "input": "",
+        "output": "春天",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义柳暗花明",
+        "input": "",
+        "output": "希望",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义桃红柳绿",
+        "input": "",
+        "output": "生机,多彩",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义汗流浃背",
+        "input": "",
+        "output": "炎热,夏天",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义汗流满面",
+        "input": "",
+        "output": "炎热,夏天",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义汗如雨下",
+        "input": "",
+        "output": "炎热,夏天",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义焦金烁石",
+        "input": "",
+        "output": "珍贵",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义秋高气爽",
+        "input": "",
+        "output": "秋天,舒适",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义秋色宜人",
+        "input": "",
+        "output": "秋天,美丽",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义滴水成冰",
+        "input": "",
+        "output": "冬天,寒冷",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义风雪交加",
+        "input": "",
+        "output": "冬天,寒冷,下雪",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义数九寒天",
+        "input": "",
+        "output": "冬天,寒冷",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义天寒地冻",
+        "input": "",
+        "output": "冬天,寒冷",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义百花齐放",
+        "input": "",
+        "output": "植物,美丽,春天",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义草长莺飞",
+        "input": "",
+        "output": "生机,植物",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义风光旖旎",
+        "input": "",
+        "output": "美丽",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义山光水色",
+        "input": "",
+        "output": "美丽,自然",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义锦绣山河",
+        "input": "",
+        "output": "美丽,壮观",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义曲径通幽",
+        "input": "",
+        "output": "描写,幽深",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义旭日东升",
+        "input": "",
+        "output": "日出",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义红装素裹",
+        "input": "",
+        "output": "红色,朴素",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义良辰美景",
+        "input": "",
+        "output": "美丽",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义流连忘返",
+        "input": "",
+        "output": "美丽,不舍",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义引人入胜",
+        "input": "",
+        "output": "吸引",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义别有天地",
+        "input": "",
+        "output": "独特",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义拔苗助长",
+        "input": "",
+        "output": "寓言",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义狐假虎威",
+        "input": "",
+        "output": "寓言",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义坐井观天",
+        "input": "",
+        "output": "寓言",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义守株待兔",
+        "input": "",
+        "output": "寓言",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义愚公移山",
+        "input": "",
+        "output": "寓言",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义精卫填海",
+        "input": "",
+        "output": "寓言",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义画饼充饥",
+        "input": "",
+        "output": "寓言",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义画地为牢",
+        "input": "",
+        "output": "传统,坚持",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义杀鸡儆猴",
+        "input": "",
+        "output": "警告",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义对牛弹琴",
+        "input": "",
+        "output": "无知",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义盲人摸象",
+        "input": "",
+        "output": "无知",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义程门立雪",
+        "input": "",
+        "output": "坚持,敬佩,好学",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义渑池之会",
+        "input": "",
+        "output": "出色,奋勇,爱国",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义纸上谈兵",
+        "input": "",
+        "output": "学习,虚伪",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义指鹿为马",
+        "input": "",
+        "output": "无知,蒙蔽",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义十面埋伏",
+        "input": "",
+        "output": "凶险",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义杞人忧天",
+        "input": "",
+        "output": "紧张,担忧",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义南柯一梦",
+        "input": "",
+        "output": "虚伪",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义卧薪尝胆",
+        "input": "",
+        "output": "抱负,刻苦",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义洛阳纸贵",
+        "input": "",
+        "output": "珍贵",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义一落千丈",
+        "input": "",
+        "output": "无助,无力",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义一发千钧",
+        "input": "",
+        "output": "着急,迅速",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义一日千里",
+        "input": "",
+        "output": "迅速",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义一事无成",
+        "input": "",
+        "output": "无知",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义二话不说",
+        "input": "",
+        "output": "果断",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义三心二意",
+        "input": "",
+        "output": "浮躁",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义三言两语",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义三足鼎立",
+        "input": "",
+        "output": "分裂",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义三头六臂",
+        "input": "",
+        "output": "出色",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义四大皆空",
+        "input": "",
+        "output": "消失,虚无",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义四分五裂",
+        "input": "",
+        "output": "矛盾,分裂",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义五大三粗",
+        "input": "",
+        "output": "粗心",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义五湖四海",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义六神无主",
+        "input": "",
+        "output": "无力,疲惫",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义六亲不认",
+        "input": "",
+        "output": "冷漠",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义七窍生烟",
+        "input": "",
+        "output": "愤怒",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义七零八落",
+        "input": "",
+        "output": "分裂,无助",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义八面威风",
+        "input": "",
+        "output": "豪迈",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义八仙过海",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义八面玲珑",
+        "input": "",
+        "output": "全面,智慧",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义九死一生",
+        "input": "",
+        "output": "凶险",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义九九归一",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义十拿九稳",
+        "input": "",
+        "output": "出色,有经验",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义十全十美",
+        "input": "",
+        "output": "全面,优秀",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义十万火急",
+        "input": "",
+        "output": "着急",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义十指连心",
+        "input": "",
+        "output": "亲密,密切",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义百战百胜",
+        "input": "",
+        "output": "出色",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义百折不挠",
+        "input": "",
+        "output": "密切",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义百依百顺",
+        "input": "",
+        "output": "顺从",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义千军万马",
+        "input": "",
+        "output": "壮观",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义千变万化",
+        "input": "",
+        "output": "变化",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义千千万万",
+        "input": "",
+        "output": "壮观,普遍",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义千呼万唤",
+        "input": "",
+        "output": "等待",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义万象更新",
+        "input": "",
+        "output": "变化,繁荣,生机",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义万不得已",
+        "input": "",
+        "output": "无助",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义万无一失",
+        "input": "",
+        "output": "全面,顺利",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义万死不辞",
+        "input": "",
+        "output": "忠心,奋勇",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义万众一心",
+        "input": "",
+        "output": "团结",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义平易近人",
+        "input": "",
+        "output": "亲切",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义宽宏大度",
+        "input": "",
+        "output": "大度",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义锲而不舍",
+        "input": "",
+        "output": "坚持",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义大义凛然",
+        "input": "",
+        "output": "奋勇",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义临危不俱",
+        "input": "",
+        "output": "奋勇",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义鞠躬尽瘁",
+        "input": "",
+        "output": "忠心",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义死而后已",
+        "input": "",
+        "output": "忠心",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义料事如神",
+        "input": "",
+        "output": "智慧,远虑",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义融会贯通",
+        "input": "",
+        "output": "学习,智慧",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义学贯中西",
+        "input": "",
+        "output": "学习,出色,智慧",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义博古通今",
+        "input": "",
+        "output": "优秀,智慧",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义才华横溢",
+        "input": "",
+        "output": "出色,优秀",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义出类拔萃",
+        "input": "",
+        "output": "优秀,出色",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义博大精深",
+        "input": "",
+        "output": "智慧,优秀",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义集思广益",
+        "input": "",
+        "output": "讨论,智慧",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义举一反三",
+        "input": "",
+        "output": "智慧,出色,好学",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义憨态可掬",
+        "input": "",
+        "output": "亲切",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义风度翩翩",
+        "input": "",
+        "output": "好看,礼貌,出色",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义相貌堂堂",
+        "input": "",
+        "output": "好看",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义斗志昂扬",
+        "input": "",
+        "output": "自信,抱负",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义意气风发",
+        "input": "",
+        "output": "豪迈,出色,抱负",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义欣喜若狂",
+        "input": "",
+        "output": "喜悦",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义喜出望外",
+        "input": "",
+        "output": "喜悦,惊讶",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义无动于衷",
+        "input": "",
+        "output": "坚持",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义勃然大怒",
+        "input": "",
+        "output": "愤怒,突然",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义能说会道",
+        "input": "",
+        "output": "出色,优秀,讨论",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义巧舌如簧",
+        "input": "",
+        "output": "出色,优秀,讨论",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义能言善辩",
+        "input": "",
+        "output": "出色,优秀,讨论",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义徒劳无功",
+        "input": "",
+        "output": "无力,失败",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义天造地设",
+        "input": "",
+        "output": "完美,美好",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义桃花流水",
+        "input": "",
+        "output": "流水,美好",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义亭台楼阁",
+        "input": "",
+        "output": "建筑",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义团团转",
+        "input": "",
+        "output": "",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义山崩地裂",
+        "input": "",
+        "output": "壮观",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义神机妙算",
+        "input": "",
+        "output": "智慧",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义三长两短",
+        "input": "",
+        "output": "危险",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义应接不暇",
+        "input": "",
+        "output": "丰富",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义神气十足",
+        "input": "",
+        "output": "得意",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义守望相助",
+        "input": "",
+        "output": "帮助",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义身临其境",
+        "input": "",
+        "output": "真实",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义生气勃勃",
+        "input": "",
+        "output": "活力,生机",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义手忙脚乱",
+        "input": "",
+        "output": "慌张",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义世外桃源",
+        "input": "",
+        "output": "美好",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义深信不疑",
+        "input": "",
+        "output": "坚持",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义数一数二",
+        "input": "",
+        "output": "优秀,出色",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义水落石出",
+        "input": "",
+        "output": "真实",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义所向披靡",
+        "input": "",
+        "output": "强大",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义势不可挡",
+        "input": "",
+        "output": "强大",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义思潮起伏",
+        "input": "",
+        "output": "紧张",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义肃然起敬",
+        "input": "",
+        "output": "尊敬",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义死气沉沉",
+        "input": "",
+        "output": "压抑",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义随遇而安",
+        "input": "",
+        "output": "灵活",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义山重水复",
+        "input": "",
+        "output": "艰难",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义神来之笔",
+        "input": "",
+        "output": "出色",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义神清气爽",
+        "input": "",
+        "output": "喜悦",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义深入骨髓",
+        "input": "",
+        "output": "深刻",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义势不可当",
+        "input": "",
+        "output": "强大",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义失魂落魄",
+        "input": "",
+        "output": "悲伤,沮丧",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义诗情画意",
+        "input": "",
+        "output": "美好",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义水到渠成",
+        "input": "",
+        "output": "顺利",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义随时随地",
+        "input": "",
+        "output": "灵活",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义死路一条",
+        "input": "",
+        "output": "绝望,艰难",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义缩成一团",
+        "input": "",
+        "output": "害怕",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义热血沸腾",
+        "input": "",
+        "output": "狂热",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义如愿以偿",
+        "input": "",
+        "output": "满足",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义若隐若现",
+        "input": "",
+        "output": "朦胧",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义如醉如痴",
+        "input": "",
+        "output": "狂热",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义热泪盈眶",
+        "input": "",
+        "output": "感动,喜悦",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义若无其事",
+        "input": "",
+        "output": "冷漠",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义热气腾腾",
+        "input": "",
+        "output": "温暖",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义人迹罕至",
+        "input": "",
+        "output": "荒凉",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义日落西山",
+        "input": "",
+        "output": "悲伤",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义日夜兼程",
+        "input": "",
+        "output": "紧张",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义朝夕相处",
+        "input": "",
+        "output": "亲密",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义张灯结彩",
+        "input": "",
+        "output": "繁华,热闹",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义斩钉截铁",
+        "input": "",
+        "output": "果断",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义载歌载舞",
+        "input": "",
+        "output": "热闹",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义转悲为喜",
+        "input": "",
+        "output": "喜悦,美好",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义遮天盖地",
+        "input": "",
+        "output": "凶猛",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义战无不胜",
+        "input": "",
+        "output": "凶猛,智慧,出色",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义指手画脚",
+        "input": "",
+        "output": "自负",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义左顾右盼",
+        "input": "",
+        "output": "浮躁",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义专心致志",
+        "input": "",
+        "output": "专注",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义张冠李戴",
+        "input": "",
+        "output": "混淆",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义自作自受",
+        "input": "",
+        "output": "冷漠",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义置之不理",
+        "input": "",
+        "output": "冷漠",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义争先恐后",
+        "input": "",
+        "output": "着急,热闹",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义纵横交错",
+        "input": "",
+        "output": "纷乱",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义终天之恨",
+        "input": "",
+        "output": "悲伤,失望",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义炙手可热",
+        "input": "",
+        "output": "出色,抢手",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义助人为乐",
+        "input": "",
+        "output": "优秀,礼貌",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义重于泰山",
+        "input": "",
+        "output": "珍贵,山川",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义抓耳挠腮",
+        "input": "",
+        "output": "慌张,紧张",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义卓有成效",
+        "input": "",
+        "output": "喜悦,欣赏",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义自由自在",
+        "input": "",
+        "output": "随意",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义坐卧不安",
+        "input": "",
+        "output": "慌张,紧张,无助",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义赞叹不已",
+        "input": "",
+        "output": "欣赏",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义真情实感",
+        "input": "",
+        "output": "真实",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义震天动地",
+        "input": "",
+        "output": "壮观",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义争奇斗艳",
+        "input": "",
+        "output": "生机,热闹",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义枝繁叶茂",
+        "input": "",
+        "output": "生机",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义追根求源",
+        "input": "",
+        "output": "追求",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义自生自灭",
+        "input": "",
+        "output": "冷漠",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义龇牙咧嘴",
+        "input": "",
+        "output": "狰狞",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义自言自语",
+        "input": "",
+        "output": "思考",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义子子孙孙",
+        "input": "",
+        "output": "传承",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义众星拱月",
+        "input": "",
+        "output": "敬佩",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义转眼之间",
+        "input": "",
+        "output": "迅速",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义牙牙学语",
+        "input": "",
+        "output": "学习",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义一模一样",
+        "input": "",
+        "output": "模仿",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义一窝蜂",
+        "input": "",
+        "output": "纷乱,热闹",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义扬长而去",
+        "input": "",
+        "output": "离开",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义夜以继日",
+        "input": "",
+        "output": "勤奋,坚持",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义养尊处优",
+        "input": "",
+        "output": "富裕",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义摇头摆尾",
+        "input": "",
+        "output": "摇晃",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义一去不复返",
+        "input": "",
+        "output": "离开",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义严阵以待",
+        "input": "",
+        "output": "紧张",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义一团漆黑",
+        "input": "",
+        "output": "黑色",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义一片冰心",
+        "input": "",
+        "output": "纯洁",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义依依不舍",
+        "input": "",
+        "output": "不舍",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义一无所有",
+        "input": "",
+        "output": "艰辛",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义摇头晃脑",
+        "input": "",
+        "output": "摇晃",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义一本正经",
+        "input": "",
+        "output": "谨慎,认真",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义一寸光阴一寸金",
+        "input": "",
+        "output": "珍贵",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义一如既往",
+        "input": "",
+        "output": "坚持",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义莺歌燕舞",
+        "input": "",
+        "output": "热闹,繁华",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义耀武扬威",
+        "input": "",
+        "output": "自豪,轻浮",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义一溜烟",
+        "input": "",
+        "output": "迅速",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义愚不可及",
+        "input": "",
+        "output": "愚蠢",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义一望无际",
+        "input": "",
+        "output": "广阔",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义原封不动",
+        "input": "",
+        "output": "等待",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义异想天开",
+        "input": "",
+        "output": "自负,想象",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义有朝一日",
+        "input": "",
+        "output": "抱负",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义一来二去",
+        "input": "",
+        "output": "合作",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义引人注目",
+        "input": "",
+        "output": "有趣,罕见",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义与世长辞",
+        "input": "",
+        "output": "年迈,去世",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义悠悠忽忽",
+        "input": "",
+        "output": "随意",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义鱼贯而入",
+        "input": "",
+        "output": "纷乱,热闹",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义异口同声",
+        "input": "",
+        "output": "默契",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义语无伦次",
+        "input": "",
+        "output": "无助",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义与众不同",
+        "input": "",
+        "output": "罕见",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义音容笑貌",
+        "input": "",
+        "output": "怀念",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义迎风招展",
+        "input": "",
+        "output": "壮观",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义语重心长",
+        "input": "",
+        "output": "深刻,担忧",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义抑扬顿挫",
+        "input": "",
+        "output": "好听",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义以一当十",
+        "input": "",
+        "output": "珍贵",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义衣衫褴褛",
+        "input": "",
+        "output": "艰辛",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义意味深长",
+        "input": "",
+        "output": "深刻",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义源源不断",
+        "input": "",
+        "output": "富裕",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义炎黄子孙",
+        "input": "",
+        "output": "自豪",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义杨柳依依",
+        "input": "",
+        "output": "不舍",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义窈窕淑女",
+        "input": "",
+        "output": "典雅,美丽",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义摇头叹息",
+        "input": "",
+        "output": "失望,无奈",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义摇摇摆摆",
+        "input": "",
+        "output": "缓慢,摇晃",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义遥遥在望",
+        "input": "",
+        "output": "希望",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义以防万一",
+        "input": "",
+        "output": "预备,谨慎",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义一花独放",
+        "input": "",
+        "output": "突出,独特",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义议论纷纷",
+        "input": "",
+        "output": "讨论,纷乱",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义一清二楚",
+        "input": "",
+        "output": "清晰",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义意想不到",
+        "input": "",
+        "output": "惊讶",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义一字一句",
+        "input": "",
+        "output": "珍贵,真实",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义永不磨灭",
+        "input": "",
+        "output": "永恒",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义用之不竭",
+        "input": "",
+        "output": "永恒",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义有鼻子有眼",
+        "input": "",
+        "output": "清晰",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义有声有色",
+        "input": "",
+        "output": "好听,好看",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义有所作为",
+        "input": "",
+        "output": "优秀",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义有志不在年高",
+        "input": "",
+        "output": "优秀,抱负",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义鱼贯而出",
+        "input": "",
+        "output": "流畅,大量",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义郁郁苍苍",
+        "input": "",
+        "output": "绿色,生机",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义仰面朝天",
+        "input": "",
+        "output": "摔倒",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义一拥而入",
+        "input": "",
+        "output": "流畅,大量",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义有说有笑",
+        "input": "",
+        "output": "讨论,悠闲",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义一声不响",
+        "input": "",
+        "output": "寂静",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义一团糟",
+        "input": "",
+        "output": "纷乱",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义臭味相投",
+        "input": "",
+        "output": "友谊",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义喜不自胜",
+        "input": "",
+        "output": "喜悦",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义喜气洋洋",
+        "input": "",
+        "output": "喜悦",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义想当然",
+        "input": "",
+        "output": "自负",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义兴致勃勃",
+        "input": "",
+        "output": "热情",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义雪中送炭",
+        "input": "",
+        "output": "帮助",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义栩栩如生",
+        "input": "",
+        "output": "描写,逼真",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义相提并论",
+        "input": "",
+        "output": "比较",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义心安理得",
+        "input": "",
+        "output": "安逸",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义仙风道骨",
+        "input": "",
+        "output": "独特,纯洁",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义响彻云霄",
+        "input": "",
+        "output": "声音大",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义相得益彰",
+        "input": "",
+        "output": "帮助,优秀",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义雪上加霜",
+        "input": "",
+        "output": "绝望",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义小巧玲珑",
+        "input": "",
+        "output": "娇小",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义心灵手巧",
+        "input": "",
+        "output": "灵活,美好",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义下马威",
+        "input": "",
+        "output": "凶猛",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义汹涌澎湃",
+        "input": "",
+        "output": "壮观",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义小心翼翼",
+        "input": "",
+        "output": "谨慎",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义形容枯槁",
+        "input": "",
+        "output": "瘦弱",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义行色匆匆",
+        "input": "",
+        "output": "着急,迅速",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义星星点点",
+        "input": "",
+        "output": "星星,散布",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义雄伟壮观",
+        "input": "",
+        "output": "壮观",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义绚丽多彩",
+        "input": "",
+        "output": "多彩,光芒",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义下落不明",
+        "input": "",
+        "output": "神秘,凶险,担忧",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义笑而不答",
+        "input": "",
+        "output": "神秘",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义嘻嘻哈哈",
+        "input": "",
+        "output": "有趣",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义虚惊一场",
+        "input": "",
+        "output": "害怕,虚伪",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义万水千山",
+        "input": "",
+        "output": "自然",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义万马齐喑",
+        "input": "",
+        "output": "声音大,壮观",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义枉费心机",
+        "input": "",
+        "output": "思考,白费",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义望子成龙",
+        "input": "",
+        "output": "希望",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义万里长城",
+        "input": "",
+        "output": "壮观",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义无所不能",
+        "input": "",
+        "output": "优秀",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义无价之宝",
+        "input": "",
+        "output": "珍贵",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义无缘无故",
+        "input": "",
+        "output": "奇怪",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义为所欲为",
+        "input": "",
+        "output": "随意",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义惟妙惟肖",
+        "input": "",
+        "output": "描写,逼真",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义无拘无束",
+        "input": "",
+        "output": "随意,悠闲",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义无影无踪",
+        "input": "",
+        "output": "消失",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义无忧无虑",
+        "input": "",
+        "output": "悠闲,安逸",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义五谷丰登",
+        "input": "",
+        "output": "丰收",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义无依无靠",
+        "input": "",
+        "output": "无助,孤单",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义物美价廉",
+        "input": "",
+        "output": "便宜",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义无边无际",
+        "input": "",
+        "output": "广阔",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义无所不知",
+        "input": "",
+        "output": "智慧",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义五洲四海",
+        "input": "",
+        "output": "广阔",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义五彩斑斓",
+        "input": "",
+        "output": "多彩",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义闻名遐迩",
+        "input": "",
+        "output": "著名",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义弯弯曲曲",
+        "input": "",
+        "output": "曲折",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义腾云驾雾",
+        "input": "",
+        "output": "朦胧",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义谈何容易",
+        "input": "",
+        "output": "艰辛",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义天南地北",
+        "input": "",
+        "output": "广阔",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义桃花潭水",
+        "input": "",
+        "output": "美丽",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义同心协力",
+        "input": "",
+        "output": "合作",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义突如其来",
+        "input": "",
+        "output": "突然",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义提心吊胆",
+        "input": "",
+        "output": "担忧",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义同归于尽",
+        "input": "",
+        "output": "绝望,果断",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义天衣无缝",
+        "input": "",
+        "output": "完美",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义天之骄子",
+        "input": "",
+        "output": "自豪,尊贵",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义天涯海角",
+        "input": "",
+        "output": "广阔",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义奇珍异宝",
+        "input": "",
+        "output": "美丽,珍贵",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义七嘴八舌",
+        "input": "",
+        "output": "讨论,狂热",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义气壮山河",
+        "input": "",
+        "output": "山川,壮观,豪迈",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义奇形怪状",
+        "input": "",
+        "output": "奇怪",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义牵肠挂肚",
+        "input": "",
+        "output": "关切",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义寝不安席",
+        "input": "",
+        "output": "担忧",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义青山绿水",
+        "input": "",
+        "output": "山川",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义倾盆大雨",
+        "input": "",
+        "output": "下雨",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义牵牛织女",
+        "input": "",
+        "output": "纯洁,坦诚",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义千灾百难",
+        "input": "",
+        "output": "动荡",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义千姿百态",
+        "input": "",
+        "output": "丰富",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义秋收冬藏",
+        "input": "",
+        "output": "秋天",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义疲惫不堪",
+        "input": "",
+        "output": "辛苦,艰辛",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义排山倒海",
+        "input": "",
+        "output": "壮观,强大",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义庞然大物",
+        "input": "",
+        "output": "强大",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义劈头盖脸",
+        "input": "",
+        "output": "责备",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义迫在眉睫",
+        "input": "",
+        "output": "紧张,着急",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义翩翩起舞",
+        "input": "",
+        "output": "舞蹈",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义迫不及待",
+        "input": "",
+        "output": "着急",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义平安无事",
+        "input": "",
+        "output": "悠闲,温馨,安宁",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义破琴绝弦",
+        "input": "",
+        "output": "友谊",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义破烂不堪",
+        "input": "",
+        "output": "破败",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义呕心沥血",
+        "input": "",
+        "output": "真心,勤奋",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义藕断丝连",
+        "input": "",
+        "output": "不舍",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义男女老少",
+        "input": "",
+        "output": "温馨",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义喃喃自语",
+        "input": "",
+        "output": "发呆,思考",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义你追我赶",
+        "input": "",
+        "output": "活力",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义蹑手蹑脚",
+        "input": "",
+        "output": "谨慎",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义牛郎织女",
+        "input": "",
+        "output": "温馨",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义牛毛细雨",
+        "input": "",
+        "output": "下雨",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义耐人寻味",
+        "input": "",
+        "output": "思考",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义南征北战",
+        "input": "",
+        "output": "纷乱",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义扭转乾坤",
+        "input": "",
+        "output": "强大",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义怒气冲冲",
+        "input": "",
+        "output": "愤怒",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义马马虎虎",
+        "input": "",
+        "output": "粗心",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义没头苍蝇",
+        "input": "",
+        "output": "盲目",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义慕名而来",
+        "input": "",
+        "output": "崇拜",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义面不改色",
+        "input": "",
+        "output": "冷静",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义满腹狐疑",
+        "input": "",
+        "output": "怀疑",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义莫名其妙",
+        "input": "",
+        "output": "奇怪",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义目瞪口呆",
+        "input": "",
+        "output": "惊讶",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义闷闷不乐",
+        "input": "",
+        "output": "沮丧",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义漫山遍野",
+        "input": "",
+        "output": "散布",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义默默无言",
+        "input": "",
+        "output": "沉默",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义马革裹尸",
+        "input": "",
+        "output": "爱国",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义梦寐以求",
+        "input": "",
+        "output": "希望",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义妙不可言",
+        "input": "",
+        "output": "优秀",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义满载而归",
+        "input": "",
+        "output": "丰收",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义美轮美奂",
+        "input": "",
+        "output": "美丽",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义目不忍视",
+        "input": "",
+        "output": "凄惨",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义默不作声",
+        "input": "",
+        "output": "沉默",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义迷惑不解",
+        "input": "",
+        "output": "奇怪",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义万里无云",
+        "input": "",
+        "output": "天空",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义理直气壮",
+        "input": "",
+        "output": "自信",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义柳绿花红",
+        "input": "",
+        "output": "春天,植物",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义庐山真面",
+        "input": "",
+        "output": "山川",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义略胜一筹",
+        "input": "",
+        "output": "智慧",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义龙腾虎跃",
+        "input": "",
+        "output": "活力,强大",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义乐在其中",
+        "input": "",
+        "output": "喜悦",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义狼吞虎咽",
+        "input": "",
+        "output": "狂热,迅速",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义了如指掌",
+        "input": "",
+        "output": "明白",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义敛声屏气",
+        "input": "",
+        "output": "紧张",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义来日方长",
+        "input": "",
+        "output": "自信,希望",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义理所当然",
+        "input": "",
+        "output": "自信",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义玲珑剔透",
+        "input": "",
+        "output": "美好,纯洁,灵活",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义落荒而逃",
+        "input": "",
+        "output": "胆怯,离开,害怕",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义两面三刀",
+        "input": "",
+        "output": "背叛,狰狞",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义溜之大吉",
+        "input": "",
+        "output": "离开,胆怯",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义恋恋不舍",
+        "input": "",
+        "output": "不舍,爱,犹豫",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义龙凤呈祥",
+        "input": "",
+        "output": "喜悦",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义庐山真面目",
+        "input": "",
+        "output": "真相,真实",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义零七八碎",
+        "input": "",
+        "output": "散布,纷乱",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义连枝带叶",
+        "input": "",
+        "output": "密切",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义零零星星",
+        "input": "",
+        "output": "散布,纷乱",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义柳暗花明又一村",
+        "input": "",
+        "output": "美好",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义绫罗绸缎",
+        "input": "",
+        "output": "美丽",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义冷冷清清",
+        "input": "",
+        "output": "孤独,荒凉,孤单",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义连蹦带跳",
+        "input": "",
+        "output": "活力",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义可见一斑",
+        "input": "",
+        "output": "推断",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义狂风怒号",
+        "input": "",
+        "output": "大风,凶猛",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义狂轰滥炸",
+        "input": "",
+        "output": "凶猛,狰狞",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义枯枝败叶",
+        "input": "",
+        "output": "荒凉",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义哭笑不得",
+        "input": "",
+        "output": "尴尬",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义开花结果",
+        "input": "",
+        "output": "结果,丰收",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义苦尽甜来",
+        "input": "",
+        "output": "结果",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义铿锵有力",
+        "input": "",
+        "output": "深刻,强大,声音大",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义尽心尽力",
+        "input": "",
+        "output": "忠心",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义交口称赞",
+        "input": "",
+        "output": "夸奖",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义筋疲力尽",
+        "input": "",
+        "output": "疲惫,无力",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义精神抖擞",
+        "input": "",
+        "output": "活力",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义饥肠辘辘",
+        "input": "",
+        "output": "饥饿",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义饥寒交迫",
+        "input": "",
+        "output": "饥饿,艰辛",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义极目远眺",
+        "input": "",
+        "output": "看",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义积劳成疾",
+        "input": "",
+        "output": "艰辛,辛苦",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义将心比心",
+        "input": "",
+        "output": "比较,思考,大度",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义绞尽脑汁",
+        "input": "",
+        "output": "思考",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义见微知著",
+        "input": "",
+        "output": "推断",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义接连不断",
+        "input": "",
+        "output": "大量",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义举世无双",
+        "input": "",
+        "output": "优秀,罕见,独特",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义惊天动地",
+        "input": "",
+        "output": "惊讶,震撼",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义叫苦不迭",
+        "input": "",
+        "output": "艰辛,唠叨",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义截然不同",
+        "input": "",
+        "output": "突出,独特",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义久别重逢",
+        "input": "",
+        "output": "重逢",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义惊涛骇浪",
+        "input": "",
+        "output": "凶猛,凶险,强大,壮观",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义结结巴巴",
+        "input": "",
+        "output": "紧张,慌张",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义居高临下",
+        "input": "",
+        "output": "高傲",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义惊弓之鸟",
+        "input": "",
+        "output": "害怕",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义叫苦连天",
+        "input": "",
+        "output": "艰辛",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义举世闻名",
+        "input": "",
+        "output": "著名",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义精神百倍",
+        "input": "",
+        "output": "活力",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义叽叽喳喳",
+        "input": "",
+        "output": "纷乱,声音",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义唧唧喳喳",
+        "input": "",
+        "output": "纷乱,声音",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义及时雨",
+        "input": "",
+        "output": "下雨,帮助",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义结结实实",
+        "input": "",
+        "output": "稳健",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义合二为一",
+        "input": "",
+        "output": "合作",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义花花绿绿",
+        "input": "",
+        "output": "繁华,纷乱",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义含情脉脉",
+        "input": "",
+        "output": "爱,害羞",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义浩如烟海",
+        "input": "",
+        "output": "广阔,壮观",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义哄堂大笑",
+        "input": "",
+        "output": "喜悦,声音大",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义和颜悦色",
+        "input": "",
+        "output": "喜悦,亲切",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义毫无疑义",
+        "input": "",
+        "output": "果断",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义横七竖八",
+        "input": "",
+        "output": "纷乱",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义红杏出墙",
+        "input": "",
+        "output": "生机",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义和睦相处",
+        "input": "",
+        "output": "合作",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义诲人不倦",
+        "input": "",
+        "output": "耐心,勤奋",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义恍然大悟",
+        "input": "",
+        "output": "明白,智慧",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义焕然一新",
+        "input": "",
+        "output": "变化,生机",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义欢蹦乱跳",
+        "input": "",
+        "output": "活力",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义荒无人烟",
+        "input": "",
+        "output": "荒凉",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义灰心丧气",
+        "input": "",
+        "output": "失望,无力,沮丧",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义号啕大哭",
+        "input": "",
+        "output": "悲伤",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义高楼大厦",
+        "input": "",
+        "output": "建筑",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义古往今来",
+        "input": "",
+        "output": "传承",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义改天换地",
+        "input": "",
+        "output": "变化",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义古今中外",
+        "input": "",
+        "output": "传承",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义瓜熟蒂落",
+        "input": "",
+        "output": "结果",
+        "history": []
+    },
+    {
+        "instruction": "请你用二字词语定义攻无不克",
+        "input": "",
+        "output": "奋勇",
+        "history": []
+    }
+]
